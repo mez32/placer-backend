@@ -1,0 +1,9 @@
+{
+	"env": {
+		"DB_USER": "Alex",
+		"DB_PASSWORD": "Alex123",
+		"DB_NAME": "placermern",
+		"GOOGLE_API_KEY": "AIzaSyA01E-ovYoTZ0q2QE24PKwjDxjdjFVYH-E",
+		"JWT_KEY": "secret_dont_share"
+	}
+}
